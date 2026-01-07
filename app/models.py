@@ -1,6 +1,0 @@
-print("asdasda")
-print("asdasda")
-print("asdasda")
-print("asdasda")
-print("asdasda")
-print("asdasda")
